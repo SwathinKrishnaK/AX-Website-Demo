@@ -1,0 +1,24 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display:flex;
+    justify-content:space-between;
+    background-color:antiquewhite;
+}
+
+.logo img{
+    height:125px;
+}
+
+.list ul{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+}
+
+.a{
+    text-decoration: none;
+}
